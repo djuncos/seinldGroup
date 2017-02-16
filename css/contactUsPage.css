@@ -1,0 +1,33 @@
+.container{
+
+
+	/*outline: solid 2px green;*/
+	height: 200px;
+}
+
+.contact{
+
+	float: left;
+	display: inline;
+	padding-right: 10px;
+	color: black;
+	font-weight: bolder;
+}
+
+.address{
+
+	display: inline-block;
+
+}
+
+.jerryContactInfo{
+
+	/*outline: solid 2px red;*/
+	height: 100%;
+
+}
+
+.jerryAddress{
+
+	/*outline: solid 2px orange;*/
+}
