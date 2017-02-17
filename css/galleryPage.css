@@ -1,0 +1,66 @@
+.container{
+	outline: : solid 2px pink;
+	width: 100%;
+	
+	
+}
+
+.column{
+
+	width: 25%;
+	height: 300px;
+	float: left;
+	overflow: hidden;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+
+}
+
+.image{
+	
+
+}
+
+.jerryImg{
+	height: 335px;
+}
+
+.jerryDiv{
+	
+	outline: solid 3px orange;
+	
+	 
+}
+
+.elaineImg{
+	height: 110%;
+}
+
+.elaineDiv{	
+	
+	outline: solid 3px green;
+	
+}
+
+.georgeImg{
+	height: 100%;
+	margin-right: 25%;
+}
+
+.georgeDiv{
+	
+	outline: solid 2px red;
+	
+}
+
+.kramerImg{
+	height: 120%;
+	margin-right: 30%;
+}
+
+.kramerDiv{
+	
+	outline: solid 2px red;
+	
+}
